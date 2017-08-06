@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BoardCover
+public class Main
 {
 	private static boolean[][] isBlack;
 	private static int row, col;

@@ -1,6 +1,5 @@
-package project;
 import java.util.Scanner;
-public class Picnic
+public class Main
 {
 	private static int n;
 	private static boolean[][] areFriends;
