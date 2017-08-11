@@ -14,9 +14,7 @@ public class Main
 			cache[i] = -1;
 		int max = -1;
 		for (int i = 0; i < n; i++)
-		{
 			max = Math.max(max, findLIS(i));
-		}
 		
 		return max;
 	}
